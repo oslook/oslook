@@ -1,4 +1,4 @@
-### Hi there  I'm <a href="https://oslook.com" target="_blank">oslook</a> 👋
+### Hi there, I'm <a href="https://oslook.com" target="_blank">oslook</a> 👋
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=oslook.oslook)
 
