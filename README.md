@@ -4,6 +4,10 @@
 
 I am a full-stack software engineer. I love programming, photograph and traveling.
 
+Some Project I like：
+
+- 🎯 [uuid.site](https://uuid.site)
+- 🎯 [ai pixar posters](https://aipixarposters.com)
 <!--
 **oslook/oslook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
