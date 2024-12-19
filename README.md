@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a cloud-native developer skilled in both front-end and
 ## Let's Connect!
 I'm always open to learning and collaboration. Feel free to reach out!
 
-### Some Projects
+## Projects From Friend
 
-- 🎯 [ai art generator](https://ai-art-generator.net)
-- 🎯 [uuid.site](https://uuid.site)
+- 🎯 [AI Art Generator](https://www.ai-art-generator.net)
+- 🎯 [Sora Remix](https://www.SoraRemix.com)
